@@ -1,2 +1,2 @@
 # laoProjectTeam
-this is a first team project
+I'm junior coding 
